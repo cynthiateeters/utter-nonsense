@@ -7,26 +7,21 @@ Rolled up so tight,
 Those who saw him ran quickly,
 
 For fear he should bite.
- 
 
 r!
 
-
 Rattlesnake bite!
-
-
 
 Edward Lear (Nonsense Alphabet 3)
 
 ![snake](https://user-images.githubusercontent.com/13385801/152665541-7b9f4b78-d166-47ac-873c-22ec28fa17a8.svg)
 
-
-
 With help from Edward Lear (1812-188) we make a page showing how to:
 
 - Use [Open Props](https://open-props.style/) and its normalize to greatly increase styling speed
-- Self-Host fonts with SASS
-- Use Variable Fonts
+- Use BEM & SASS partials and nesting
+- Use Variable fonts
+- Self-host fonts
 - Build it all with Parcel v2
 
 ## How to use this repo
@@ -42,6 +37,7 @@ When you want to stop the watcher, click in the terminal and press ctrl-c
 ## When you are ready to go to production
 
 1. In your terminal, run `rpm run build`. The final version of your site will be in the `dist` folder.
+2. You can test your build site locally with the Live Server extension (which is configured in .vscode/settings.json).
 
 ## If you run into problems
 
