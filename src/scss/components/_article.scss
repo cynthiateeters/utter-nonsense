@@ -21,36 +21,6 @@
 
 // typography
 
-.header {
-  text-align: center;
-  font-family: 'Decovar Alpha Regular24';
-
-  &__title {
-    font-size: calc(var(--size-fluid-1) * 3);
-    line-height: var(--font-lineheight-0);
-    font-variation-settings: 'TRME' 0, 'TRMG' 0, 'TRMB' 0, 'TRMF' 772, 'BLDB' 390;
-  }
-
-  &__subtitle {
-    font-size: calc(var(--size-fluid-1) * 2.8);
-    line-height: var(--font-lineheight-1);
-    font-variation-settings: 'TRMB' 505, 'TRMC' 651, 'TRML' 806, 'TRMA' 416, 'TRMG' 250, 'WMX2' 137, 'TRME' 648;
-    letter-spacing: 0.13em;
-  }
-
-  &__author {
-    font-size: calc(var(--size-fluid-1) * 2);
-    line-height: var(--font-lineheight-4);
-    font-style: italic;
-    font-variation-settings: 'TRMC' 830;
-    letter-spacing: 0.099em;
-  }
-}
-
-.image {
-  max-width: var(--size-15);
-}
-
 .stanza {
   font-variation-settings: 'opsz' 68;
 
