@@ -1,0 +1,21 @@
+{
+  "name": "variable-fonts",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "rm -f dist/* && parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.2.1",
+    "parcel": "^2.2.1",
+    "sass": "^1.49.7"
+  },
+  "dependencies": {
+    "open-props": "^1.3.3"
+  }
+}
