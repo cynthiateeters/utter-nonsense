@@ -45,7 +45,7 @@ When you want to stop the watcher, click in the terminal and press ctrl-c
 
 - Check out [Parcel's documentation](https://parceljs.org/getting_started.html)
 
-Thank you to [Variable Fonts for Web Design](https://www.youtube.com/watch?v=9IFqv5uVP_c&t=762s) for tutorial on variable fonts
+Thank you to Alex Trost and Adam Argyle (Creator of Open Props) for [Building Consistent UIs with Open Props w/ Adam Argyle!](https://youtu.be/O53MwmolKP4) for tutorial on Open Props.
 
 ### Resources:
 
