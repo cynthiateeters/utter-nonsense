@@ -26,5 +26,6 @@
 
   &__line {
     font-size: calc(var(--size-fluid-2) * 1.5);
+    line-height: var(--font-lineheight-1);
   }
 }
