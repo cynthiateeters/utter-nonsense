@@ -19,7 +19,7 @@ Edward Lear (Nonsense Alphabet 3)
 With help from Edward Lear (1812-188) we make a page showing how to:
 
 - Use [Open Props](https://open-props.style/) and its normalize to greatly increase styling speed
-- Use BEM & SASS partials and nesting
+- Use BEM & Sass partials and nesting
 - Use Variable fonts
 - Self-host fonts
 - Build it all with Parcel v2
