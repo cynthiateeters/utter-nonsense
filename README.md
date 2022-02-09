@@ -1,7 +1,5 @@
 # Utter Nonsense
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/58c5260d-b679-4090-91e3-0d4e3cb745a7/deploy-status)](https://app.netlify.com/sites/utter-nonsense/deploys)
-
 R was a rattlesnake,
 
 Rolled up so tight,
@@ -60,3 +58,5 @@ Thank you to Alex Trost and Adam Argyle (Creator of Open Props) for [Building Co
 - Courtesy of [Snake Vectors by Vecteezy](https://www.vecteezy.com/free-vector/snake)
 
 - Help With Variable Fonts [Wakamaifondue Beta](https://wakamaifondue.com/beta/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/58c5260d-b679-4090-91e3-0d4e3cb745a7/deploy-status)](https://app.netlify.com/sites/utter-nonsense/deploys)
