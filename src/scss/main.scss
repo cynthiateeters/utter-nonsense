@@ -2,6 +2,7 @@
 @use '../../node_modules/open-props/normalize.min.css';
 @use './layout/body';
 
+@use './components/nav';
 @use './components/header';
 @use './components/article';
 @use './components/footer';

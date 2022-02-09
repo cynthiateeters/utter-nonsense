@@ -10,7 +10,12 @@ body {
   min-height: 100%;
   display: grid;
   grid-template-rows: 1fr auto;
-  padding-top: var(--size-6);
+  padding-top: var(--size-2);
+}
+
+.container {
+  display: grid;
+  gap: 2rem;
 }
 
 .content {

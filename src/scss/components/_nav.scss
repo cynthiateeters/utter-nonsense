@@ -1,0 +1,63 @@
+/* _nav.scss */
+
+:where(nav) {
+  --_nav-color: var(--gray-9);
+}
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--size-2);
+  justify-self: stretch;
+  padding-inline: 3vw;
+}
+
+nav > a[href]:not(:hover, :focus-visible) {
+  color: var(--text-1);
+  text-decoration-color: var(--brand);
+}
+
+nav > a[href='/'] {
+  margin-inline-end: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--size-1);
+}
+
+nav > a[href='/'] > svg {
+  inline-size: var(--size-7);
+}
+
+.un-logo {
+  display: grid;
+  font-family: 'RobotoFlex Regular';
+  font-weight: var(--font-weight-3);
+  font-size: var(--font-size-0);
+  color: var(--_nav-color);
+  letter-spacing: var(--font-letterspacing-4);
+}
+
+.un-logo > span {
+  line-height: 0.9;
+  text-transform: uppercase;
+}
+
+.github-link {
+  margin-right: var(--size-00);
+}
+
+.un-icon .st0 {
+  fill: var(--_nav-color);
+}
+
+.github-icon {
+  fill: var(--_nav-color);
+  stroke: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  :where(nav) {
+    --_nav-color: var(--gray-0);
+  }
+}
