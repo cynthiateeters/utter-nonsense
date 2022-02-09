@@ -1,5 +1,7 @@
 # Utter Nonsense
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/58c5260d-b679-4090-91e3-0d4e3cb745a7/deploy-status)](https://app.netlify.com/sites/utter-nonsense/deploys)
+
 R was a rattlesnake,
 
 Rolled up so tight,
