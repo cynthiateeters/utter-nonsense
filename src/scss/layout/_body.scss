@@ -15,7 +15,7 @@ body {
 
 .container {
   display: grid;
-  gap: 2rem;
+  gap: var(--size-2);
 }
 
 .content {
