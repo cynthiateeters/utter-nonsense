@@ -45,9 +45,9 @@ When you want to stop the watcher, click in the terminal and press ctrl-c
 
 - Check out [Parcel's documentation](https://parceljs.org/getting_started.html)
 
-Thank you to Alex Trost and Adam Argyle (Creator of Open Props) for [Building Consistent UIs with Open Props w/ Adam Argyle!](https://youtu.be/O53MwmolKP4) for tutorial on Open Props.
+## Resources:
 
-### Resources:
+- Thank you to Alex Trost and Adam Argyle (Creator of Open Props) for [Building Consistent UIs with Open Props w/ Adam Argyle!](https://youtu.be/O53MwmolKP4) for tutorial on Open Props.
 
 - "Nonsense Alphabet 3 by Edward Lear" - [Public Domain Poetry](http://www.public-domain-poetry.com/edward-lear/nonsense-alphabet-3-23374)
 
