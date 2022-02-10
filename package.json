@@ -9,10 +9,14 @@
   },
   "keywords": [],
   "author": "",
+  "staticFiles": {
+    "staticPath": "src/static"
+  },
   "license": "MIT",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.2.1",
     "parcel": "^2.2.1",
+    "parcel-reporter-static-files-copy": "^1.3.4",
     "sass": "^1.49.7"
   },
   "dependencies": {
