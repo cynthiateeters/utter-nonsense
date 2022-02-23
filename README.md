@@ -26,9 +26,10 @@ With help from Edward Lear (1812-188) we make a page showing how to:
 
 ## How to use this repo
 
-1. Clone the repo
-2. In your terminal, run `npm install`
-3. In your terminal, run the parcel watcher `npm run dev`
+1. Have node installed
+2. Clone the repo
+3. In your terminal, run `npm install`
+4. In your terminal, run the parcel watcher `npm run dev`
 
 You are good to go! It will watch all your files for changes automatically and live update your browser.
 
